@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Assignment1DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Taskes">
+    <Key>
+      <PropertyRef Name="TaskId" />
+    </Key>
+    <Property Name="TaskId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TaskTitle" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="TaskDescription" Type="varchar" MaxLength="100" />
+    <Property Name="TaskStatus" Type="varchar" MaxLength="100" />
+    <Property Name="DueDate" Type="varchar" MaxLength="100" />
+    <Property Name="userid" Type="int" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="UserPassword" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="UserEmail" Type="varchar" MaxLength="100" />
+    <Property Name="userRole" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK__Taskes__userid__3D5E1FD2">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="Taskes" Type="Self.Taskes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Taskes">
+        <PropertyRef Name="userid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Assignment1DBModelStoreContainer">
+    <EntitySet Name="Taskes" EntityType="Self.Taskes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Taskes__userid__3D5E1FD2" Association="Self.FK__Taskes__userid__3D5E1FD2">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Taskes" EntitySet="Taskes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,87 @@
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\bin\Debug\Assignment project.exe.config
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\bin\Debug\Assignment project.exe
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\bin\Debug\Assignment project.pdb
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\bin\Debug\EntityFramework.dll
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\bin\Debug\EntityFramework.xml
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Assignment project.csproj.AssemblyReference.cache
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\AddMangementPage.g.cs
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Loginpage.g.cs
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\MainWindow.g.cs
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\ViewTaskPage.g.cs
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\App.g.cs
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Assignment project_Content.g.cs
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Assignment project_MarkupCompile.cache
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Assignment project_MarkupCompile.lref
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\AddMangementPage.baml
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Loginpage.baml
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\MainWindow.baml
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\ViewTaskPage.baml
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Assignment project.g.resources
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Assignment_project.Properties.Resources.resources
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Assignment project.csproj.GenerateResource.cache
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Assignment project.csproj.CoreCompileInputs.cache
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Assignme.DE1E5323.Up2Date
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Assignment project.exe
+C:\Users\LION TECH\source\repos\Assignment project\Assignment project\obj\Debug\Assignment project.pdb
+C:\Users\Admin\Desktop\Assignment project\Assignment project\bin\Debug\Assignment project.exe.config
+C:\Users\Admin\Desktop\Assignment project\Assignment project\bin\Debug\Assignment project.exe
+C:\Users\Admin\Desktop\Assignment project\Assignment project\bin\Debug\Assignment project.pdb
+C:\Users\Admin\Desktop\Assignment project\Assignment project\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Assignment project\Assignment project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Assignment project\Assignment project\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Assignment project\Assignment project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\AddMangementPage.g.cs
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Loginpage.g.cs
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\ViewTaskPage.g.cs
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project_Content.g.cs
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project_MarkupCompile.cache
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project_MarkupCompile.lref
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\AddMangementPage.baml
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Loginpage.baml
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\ViewTaskPage.baml
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.g.resources
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Assignment_project.Properties.Resources.resources
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Assignme.DE1E5323.Up2Date
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.exe
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.pdb
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\bin\Debug\Assignment project.exe.config
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\bin\Debug\Assignment project.exe
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\bin\Debug\Assignment project.pdb
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\bin\Debug\EntityFramework.dll
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\bin\Debug\EntityFramework.xml
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.csproj.AssemblyReference.cache
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\AddMangementPage.g.cs
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Loginpage.g.cs
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\MainWindow.g.cs
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\SignUpPage.g.cs
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\ViewTaskPage.g.cs
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\App.g.cs
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project_Content.g.cs
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project_MarkupCompile.cache
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project_MarkupCompile.lref
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\AddMangementPage.baml
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Loginpage.baml
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\MainWindow.baml
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\SignUpPage.baml
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\ViewTaskPage.baml
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.g.resources
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Assignment_project.Properties.Resources.resources
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.csproj.GenerateResource.cache
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.csproj.CoreCompileInputs.cache
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Assignme.DE1E5323.Up2Date
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.exe
+C:\Users\LION TECH\OneDrive\Desktop\Assignment project\Assignment project\obj\Debug\Assignment project.pdb
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\SignUpPage.g.cs
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\SignUpPage.baml
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\ForgetPassword.g.cs
+C:\Users\Admin\Desktop\Assignment project\Assignment project\obj\Debug\ForgetPassword.baml
